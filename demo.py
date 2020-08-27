@@ -41,12 +41,31 @@
 # a=len("哈哈哈哈哈哈哈哈哈哈")
 # print(a)
 
-print("0:表示偶数; 1:表示奇数")
-a=input("请输入数字：")
-print(len(a)%2)
+# print("0:表示偶数; 1:表示奇数")
+# a=input("请输入数字：")
+# print(len(a)%2)
 
 # print("0：表示偶数，1：表示奇数")
 # a=input("请输入数字：")
 # print(len(a)%2)
 
+# print("hello world!")
+# a=print("大傻子","傻媳妇")
+# print(type(a))
 
+# print(type("哈哈哈哈哈"))
+
+# a=int("一")
+# print(type(a))
+
+# a=input("请输入第一个数字：")
+# b=input("请输入第二个数字：")
+# print(type(a))
+# c=len(print("计算的结果为：" , float(a)+float(b)))
+
+
+# print("1:表示奇数；0：表示偶数")
+# a=input("请输入：")
+# b=print(int(len(a))%2)
+
+print(1,2)
